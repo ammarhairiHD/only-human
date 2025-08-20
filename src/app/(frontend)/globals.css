@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "@govtechmy/myds-style/full.css";
 
 :root {
   --background: #ffffff;
